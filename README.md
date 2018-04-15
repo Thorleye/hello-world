@@ -1,2 +1,3 @@
 # hello-world
-tutorial to github
+tutorial to githubGetting familiar with Github before coding bootcamp.
+Following tutorial instructions
